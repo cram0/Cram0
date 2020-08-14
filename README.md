@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm cram</h1>
-<h3 align="center">I work on projects with a slight preference for video games</h3>
+<h3 align="center">I work on many things with a slight preference for video games</h3>
 
 - 🔭 I’m currently working on a game framework [there](https://github.com/AdlanSADOU/SDL_Space)
 
